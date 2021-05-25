@@ -18,3 +18,5 @@ We are  using Genius APIs to get each artist's popular tracks, lyrics and descri
 - At the end of the `Scrapping.js` file, you can find the function `getAllArtistsTracks` to be called. The function takes two arguments :
 1. Array of artists
 2. number of songs to retrieve for each artist
+
+- The file dataset.csv will be updated with the new added data to it
